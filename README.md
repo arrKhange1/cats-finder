@@ -1,1 +1,2 @@
-# Для работы нужно установить pip install requests, beautifulsoup4
+# Инструкция
+Для работы нужно установить pip install requests, beautifulsoup4
